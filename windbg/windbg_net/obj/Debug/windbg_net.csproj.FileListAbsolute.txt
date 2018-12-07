@@ -1,0 +1,7 @@
+G:\GitHub\windbg_test\windbg\windbg_net\bin\Debug\windbg_net.exe.config
+G:\GitHub\windbg_test\windbg\windbg_net\bin\Debug\windbg_net.exe
+G:\GitHub\windbg_test\windbg\windbg_net\bin\Debug\windbg_net.pdb
+G:\GitHub\windbg_test\windbg\windbg_net\obj\Debug\windbg_net.csprojResolveAssemblyReference.cache
+G:\GitHub\windbg_test\windbg\windbg_net\obj\Debug\windbg_net.csproj.CoreCompileInputs.cache
+G:\GitHub\windbg_test\windbg\windbg_net\obj\Debug\windbg_net.exe
+G:\GitHub\windbg_test\windbg\windbg_net\obj\Debug\windbg_net.pdb
