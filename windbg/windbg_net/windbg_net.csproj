@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DBDeadlockHang.cs" />
+    <Compile Include="DeadlockHang.cs" />
     <Compile Include="HighCpu.cs" />
     <Compile Include="HighMemory.cs" />
     <Compile Include="Program.cs" />
