@@ -11,9 +11,9 @@ namespace windbg_net
     {
         static void Main(string[] args)
         {
-            DeadlockHang.DeadlockHangMethod();
+            //DeadlockHang.DeadlockHangMethod();
             //HighCpu.SetHighCpu();
-            //HighMemory.SetHighMemory();
+            HighMemory.SetHighMemory();
         }
     }
 }
